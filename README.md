@@ -1,11 +1,16 @@
 ## ChainMasterTR - Short Bank Long Buidl.
+👋 Hi, I'm Mustafa! I've been working as a developer for 4-5 years and I'm aiming to become a full stack developer. I have a special interest in Blockchain and Cryptography.
 
-* Rust
-* JS
-* Solidity & Vyper
-* Python
+🔧 Languages and tools I use
+- Rust
+- JavaScript (NextJS,AngularJS,Vue)
+- Solidity & Vyper
+- Python
+- Cryptography
 
-
+## 🌐 Active projects and contributions
+- Samurai Conquest
+- DynaSwap
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
